@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">SerectBox</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">login name</string>
+    <string name="user_name">user name</string>
+    <string name="user_name_null">user name can not be null !</string>
+    <string name="account_exist">This account exist ! \nPlease try other user name ..</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Password confirm</string>
+    <string name="prompt_password_confirm_error">Password confirm default ! \n Please input the same password ..</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register new account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This login name address is invalid</string>
+    <string name="error_invalid_password">This password is incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="add_category_item">Add New Category</string>
+    <string name="delete_category_item">Delete Category</string>
+    <string name="start_gesture">Start Gesture Lock</string>
+    <string name="close_gesture">Close Gesture Lock</string>
+    <string name="add_item">Add New Item</string>
+    <string name="input_null">Input is Null</string>
+    <string name="alert">Alert</string>
+    <string name="delete_alert">Are you sure to delete this item ?
+        The data in database will also delete !</string>
+    <string name="cancel">Cancle</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="delete_confirm">Delete Anyway</string>
+    <string name="edit_confirm">Edite Now</string>
+    <string name="copy_sucess">has been copied to the clipboard !</string>
+    <string name="import_from_file">Import record from secretbox file !</string>
+    <string name="add_success">Add data successfully !</string>
+    <string name="add_fail">Add data failed !</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="edit_input_titile">Please input new value in the edittext below ..</string>
+    <string name="choos_opera">Choose your operation</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="set_gesture">Please set the gesture..</string>
+    <string name="set_gesture_again">Please set the gesture again..</string>
+    <string name="intput_gesture_answer">Please input the gestrue..</string>
+    <string name="input_gesture_error">Gesture is not matched.\n Please input the right gestrue..</string>
+    <string name="set_gesture_error">Gesture is not matched with last set.\n Please input the same gestrue..</string>
+    <string name="feedBack">FeedBack To Us</string>
+    <string name="copyright">CopyRight</string>
+    <string name="copyright_msg">  You can note anything in the serectbox . We promise never to save your info on our server .
+    If you have any addvice or problem ,you can contact us . Thank you for your attentain !</string>
+    <string name="ok">OK</string>
+
+    <string name="share_weixin">Share to WeChat</string>
+
+    <string name="title_activity_cover">CoverActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
